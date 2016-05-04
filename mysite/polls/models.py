@@ -1,7 +1,7 @@
 import datetime
 
 from django.db import models
-from django.util import timezone
+from django.utils import timezone
 
 
 class Question(models.Model):
